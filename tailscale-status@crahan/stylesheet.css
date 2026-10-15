@@ -1,0 +1,27 @@
+/* Tailscale applet menu styles. Colors come from the Cinnamon theme where possible. */
+
+.tailscale-row {
+    spacing: 0.75em;
+}
+
+.tailscale-header-icon {
+    icon-size: 1.5em;
+}
+
+.tailscale-title {
+    font-weight: bold;
+}
+
+.tailscale-subtitle {
+    font-size: 0.85em;
+}
+
+.tailscale-exit-button {
+    padding: 0.3em;
+    border-radius: 999px;
+}
+
+.tailscale-exit-button:hover,
+.tailscale-exit-button:focus {
+    background-color: rgba(128, 128, 128, 0.3);
+}

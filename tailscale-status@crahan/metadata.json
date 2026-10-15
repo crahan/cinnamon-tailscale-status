@@ -1,0 +1,8 @@
+{
+    "uuid": "tailscale-status@crahan",
+    "name": "Tailscale",
+    "description": "Turn Tailscale on or off, use an exit node, copy node IPs, change settings, and switch profiles. Based on the behavior of the tailscale-gnome-qs GNOME extension.",
+    "icon": "network-vpn-symbolic",
+    "max-instances": "1",
+    "version": "2.0"
+}
